@@ -1,0 +1,14 @@
+{
+    "values": [
+        "extremeverse_datapack:zombies/spawn_zombies",
+        "extremeverse_datapack:esqueletos/spawn_esqueletos",
+        
+        "extremeverse_datapack:comprobar_jugador_unido/check_jugador_join",
+
+        "extremeverse_datapack:lluvia/check_tiempo_lluvia",
+        "extremeverse_datapack:lluvia/check_muertes",
+
+
+        "extremeverse_datapack:muertes/check_ban_jugador"
+    ]
+}

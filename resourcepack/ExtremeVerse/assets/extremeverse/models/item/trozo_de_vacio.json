@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+	  "layer0": "extremeverse:item/trozo_de_vacio"
+	}
+}

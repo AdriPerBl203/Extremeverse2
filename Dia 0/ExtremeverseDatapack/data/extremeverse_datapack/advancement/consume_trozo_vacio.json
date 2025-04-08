@@ -1,0 +1,19 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "items": "minecraft:apple",
+                    "count": 1,
+                    "components": {
+                        "minecraft:item_model": "extremeverse:trozo_de_vacio"
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "extremeverse_datapack:devolver_vida/vida_restaurada"
+    }
+}

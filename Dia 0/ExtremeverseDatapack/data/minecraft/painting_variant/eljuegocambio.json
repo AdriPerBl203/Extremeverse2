@@ -1,0 +1,13 @@
+{
+    "asset_id": "extremeverse:eljuegocambio",
+    "width": 4,
+    "author": {
+        "color": "gray",
+        "translate": "jugador 456"
+    },
+    "height": 2,        
+    "title": {
+        "color": "yellow",
+        "translate": "el juego cambio"
+    }
+}   
