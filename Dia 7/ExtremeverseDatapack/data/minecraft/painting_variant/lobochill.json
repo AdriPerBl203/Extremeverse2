@@ -1,0 +1,13 @@
+{
+    "asset_id": "extremeverse:lobochill",
+    "width": 3,
+    "author": {
+        "color": "gray",
+        "translate": "Antonio"
+    },
+    "height": 3,        
+    "title": {
+        "color": "yellow",
+        "translate": "Lobochill"
+    }
+}   

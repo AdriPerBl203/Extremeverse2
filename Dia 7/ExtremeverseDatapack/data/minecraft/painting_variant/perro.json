@@ -1,0 +1,13 @@
+{
+    "asset_id": "extremeverse:perro",
+    "width": 4,
+    "author": {
+        "color": "gray",
+        "translate": "Dinamic"
+    },
+    "height": 4,        
+    "title": {
+        "color": "yellow",
+        "translate": "El perro dios"
+    }
+}   

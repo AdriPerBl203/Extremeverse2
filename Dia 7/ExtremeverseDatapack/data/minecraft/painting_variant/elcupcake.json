@@ -1,0 +1,13 @@
+{
+    "asset_id": "extremeverse:elcupcake",
+    "width": 2,
+    "author": {
+        "color": "gray",
+        "translate": "dani"
+    },
+    "height": 2,        
+    "title": {
+        "color": "yellow",
+        "translate": "el cupcake"
+    }
+}   

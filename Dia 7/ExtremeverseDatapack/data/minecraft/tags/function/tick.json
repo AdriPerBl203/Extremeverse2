@@ -1,0 +1,29 @@
+{
+    "values": [
+        "extremeverse_datapack:zombies/spawn_zombies",
+        "extremeverse_datapack:esqueletos/spawn_esqueletos",
+        "extremeverse_datapack:brujas/spawn_brujas",
+        "extremeverse_datapack:phantoms/spawn_phantoms",
+        "extremeverse_datapack:cabras/spawn_cabras",
+        "extremeverse_datapack:creakings/spawn_creaking",
+        "extremeverse_datapack:breezes/spawn_breezes",
+        "extremeverse_datapack:conejos/spawn_conejos",
+        "extremeverse_datapack:vindicators/spawn_vindicators",
+        "extremeverse_datapack:pillager/pillagers_normales/pillagers",
+        "extremeverse_datapack:evokers/spawn_evokers",
+        "extremeverse_datapack:guardianes/spawn_guardianes",
+        "extremeverse_datapack:slimes/spawn_slimes",
+        "extremeverse_datapack:stray/spawn_stray",
+        "extremeverse_datapack:brutos/spawn_brutos",
+        "extremeverse_datapack:hoglins/spawn_hoglins",
+        "extremeverse_datapack:spiders/spawn_spiders",
+        
+        "extremeverse_datapack:comprobar_jugador_unido/check_jugador_join",
+
+        "extremeverse_datapack:lluvia/check_tiempo_lluvia",
+        "extremeverse_datapack:lluvia/check_muertes",
+
+
+        "extremeverse_datapack:muertes/check_ban_jugador"
+    ]
+}

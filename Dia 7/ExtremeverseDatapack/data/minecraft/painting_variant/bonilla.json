@@ -1,0 +1,13 @@
+{
+    "asset_id": "extremeverse:bonilla",
+    "width": 3,
+    "author": {
+        "color": "gray",
+        "translate": "Bonilla"
+    },
+    "height": 3,        
+    "title": {
+        "color": "yellow",
+        "translate": "Bonilla al aire"
+    }
+}   

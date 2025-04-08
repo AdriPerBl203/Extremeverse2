@@ -1,0 +1,73 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "I·I",
+        "IDI",
+        " / "
+    ],
+    "key": {
+        "·": "minecraft:iron_block",
+        "/": "minecraft:stick",
+        "D": "minecraft:netherite_ingot",
+        "I": "minecraft:iron_ingot"
+    },
+    "result": {
+        "id": "minecraft:netherite_sword",
+        "components": {
+            "minecraft:lore": [
+                "{\"bold\":true,\"color\":\"dark_purple\",\"italic\":true,\"text\":\"La mísmisima espada creada para\",\"underlined\":true}",
+                "{\"bold\":true,\"color\":\"dark_purple\",\"italic\":true,\"text\":\"eliminar al nuevo dios\",\"underlined\":true}"
+            ],
+            "minecraft:item_model": "extremeverse:dragon_slayer",
+            "minecraft:rarity": "epic",
+            "minecraft:item_name": "{\"italic\":true,\"color\":\"gray\",\"text\":\"Dragon Slayer\"}",
+            "minecraft:attribute_modifiers": [
+                {
+                    "type": "minecraft:entity_interaction_range",
+                    "id": "entity_interaction_range",
+                    "amount": 0.5,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                },
+                {
+                    "type": "minecraft:attack_damage",
+                    "id": "attack_damage",
+                    "amount": 10,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                },
+                {
+                    "type": "minecraft:sweeping_damage_ratio",
+                    "id": "sweeping_damage_ratio",
+                    "amount": 2,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                },
+                {
+                    "type": "minecraft:gravity",
+                    "id": "gravity",
+                    "amount": 0.02,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                },
+                {
+                    "type": "minecraft:movement_speed",
+                    "id": "movement_speed",
+                    "amount": -0.02,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                },
+                {
+                    "type": "minecraft:attack_speed",
+                    "id": "attack_speed",
+                    "amount": -3.2,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                }
+            ]
+        },
+        "count": 1
+    },
+    "show_notification": true
+}
